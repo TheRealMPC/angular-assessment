@@ -1,12 +1,11 @@
 .jumbotron {
     background: url('http://ugmonk.com/wp-content/uploads/2016/03/category-clothing-1.jpg') center no-repeat;
     background-size: cover;
-    height: 60vh;
-    width: 75%;
-    margin: auto;
     color: #fff;
+    height: 60vh;
+    margin: auto;
     text-align: center;
-
+    width: 75%;
 }
 
 .jumbotron h1 {
@@ -15,11 +14,19 @@
 
 
 .main-cta {
-    width: 45%;
-    margin: auto;
     background: transparent;
     border: 2px solid #424242;
     color: #424242;
+    margin: auto;
+    width: 45%;
+}
+
+.logo {
+    height: 80px;
+    position: absolute;
+    right: 5vw;
+    top: 5vh;
+    width: auto;
 }
 
 
